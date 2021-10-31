@@ -10,14 +10,14 @@ W = (255, 255, 255)
 Y = (255, 128, 0)
 
 PCA = [
-    [Y, Y, Y, Y, Y, B, B, B, B, B, B, B, B, W, W, W, W, W, B, B, B, B, B, B, B, B, B, B, B, Y, Y, Y],
-    [Y, Y, Y, Y, B, B, B, B, B, B, B, B, B, W, W, B, B, W, W, B, B, B, B, B, B, B, B, B, Y, Y, Y, Y],
-    [Y, Y, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, W, W, B, B, B, B, B, B, B, B, B, B, B, Y, Y],
-    [Y, Y, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, W, W, B, B, B, B, B, B, B, B, B, B, B, Y, Y],
-    [Y, Y, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, W, B, B, B, B, B, B, B, B, B, B, B, B, Y, Y],
-    [Y, Y, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, Y, Y],
-    [Y, Y, Y, Y, B, B, B, B, B, B, B, B, B, W, W, W, B, B, B, B, B, B, B, B, B, B, B, B, Y, Y, Y, Y],
-    [Y, Y, Y, Y, B, B, B, B, B, B, B, B, B, W, W, W, B, B, B, B, B, B, B, B, B, B, B, B, Y, Y, Y, Y]
+    [W, W, W, W, W, B, B, B, B, B, B, B, B, W, W, W, W, W, B, B, B, B, B, B, B, B, B, B, B, W, W, W],
+    [W, W, W, W, B, B, B, B, B, B, B, B, B, W, W, B, B, W, W, B, B, B, B, B, B, B, B, B, W, W, W, W],
+    [W, W, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, W, W, B, B, B, B, B, B, B, B, B, B, B, W, W],
+    [W, W, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, W, W, B, B, B, B, B, B, B, B, B, B, B, W, W],
+    [W, W, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, W, B, B, B, B, B, B, B, B, B, B, B, B, W, W],
+    [W, W, B, B, B, B, B, B, B, B, B, B, B, W, W, B, B, B, B, B, B, B, B, B, B, B, B, B, B, B, W, W],
+    [W, W, W, W, B, B, B, B, B, B, B, B, B, W, W, W, B, B, B, B, B, B, B, B, B, B, B, B, W, W, W, W],
+    [W, W, W, W, B, B, B, B, B, B, B, B, B, W, W, W, B, B, B, B, B, B, B, B, B, B, B, B, W, W, W, W]
 ]
 
 
